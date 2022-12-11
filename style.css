@@ -51,7 +51,7 @@ img {
 
 .text {
 	color: #777;
-	font-size: 14px;
+	font-size: 12px;
 	flex-basis: 250px;
 	text-align: center;
 	line-height: 1.5;
@@ -61,30 +61,3 @@ img {
 
 
 
-@media screen and (min-width:420px) {
-
-	.div-container {
-		position: absolute;
-		margin: auto;
-		width: 250px;
-		height: 400px;
-		top: 0;
-	bottom: 0;
-	right: 0;
-	left: 0;
-	}
-
-img {
-	width: 220px;
-	height: 220px;
-
-}
-
-
-.title {
-	font-size: 15px;
-	flex-basis: 215px;
-	font-weight: 800;
-	
-
-}
